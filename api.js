@@ -1,3 +1,2 @@
-{
-api:www.baidu.com/test
-}
+
+www.baidu.com/test
